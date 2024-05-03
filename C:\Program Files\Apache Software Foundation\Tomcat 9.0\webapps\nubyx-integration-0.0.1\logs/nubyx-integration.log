@@ -1,0 +1,4 @@
+2024-05-02 21:40:56,019 INFO o.s.b.StartupInfoLogger [restartedMain] Starting Zendeskfive9DvaNubyxApplication using Java 17.0.6 on joel-ROG-Strix-G513QM-G513QM with PID 45976 (/home/joel/Escritorio/DVA/zendeskfive9DVA-nubyx/target/classes started by joel in /home/joel/Escritorio/DVA/zendeskfive9DVA-nubyx)
+2024-05-02 21:40:56,022 DEBUG o.s.b.StartupInfoLogger [restartedMain] Running with Spring Boot v2.7.0, Spring v5.3.20
+2024-05-02 21:40:56,023 INFO o.s.b.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2024-05-02 21:40:57,453 INFO o.s.b.StartupInfoLogger [restartedMain] Started Zendeskfive9DvaNubyxApplication in 1.73 seconds (JVM running for 2.17)
